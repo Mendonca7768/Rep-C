@@ -119,6 +119,9 @@ int main() {
                 printf("Saindo do cofrinho...\n");
                 break;
 
+                printf("Saindo do cofrinho...\n");
+                break;
+
             default:
                 printf("Opção inválida!\n");
                 break;
